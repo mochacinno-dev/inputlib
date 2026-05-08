@@ -5,6 +5,6 @@ edition = "2024"
 authors = ["Camila Lucía Rose"]
 description = "A small Rust crate providing Python-like input handling via `input!` macro."
 license = "MIT"
-repository = ""
+repository = "https://github.com/mochacinno-dev/inputlib"
 
 [dependencies]

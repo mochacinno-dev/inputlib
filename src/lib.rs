@@ -1,3 +1,5 @@
+// Made by Camila L. Rose
+
 //! ```
 //! use inputlib::input;
 //!
@@ -7,7 +9,7 @@
 //! }
 //! ```
 
-use std::io::{self, stdin, stdout, Write};
+use std::io::{self, stdin, stdout, Write, Read};
 
 /// Read a line of text from stdin after writing the provided prompt.
 ///
